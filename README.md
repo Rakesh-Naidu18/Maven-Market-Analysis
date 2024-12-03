@@ -1,5 +1,5 @@
 
-# Maven Marker Analysis
+# Maven Market Analysis
 ## Project Overview
 As part of the Microsoft Power BI Desktop for Business Intelligence course, I gained comprehensive hands-on experience in data analysis, visualization, and reporting using Power BI. This project focused on applying the tools and techniques taught throughout the course to analyze Maven Market's sales data. The project helped me develop advanced skills in transforming raw data, creating insightful models, and presenting findings through interactive visualizations.
 
